@@ -14,4 +14,3 @@ elif score >= .6:
     print("D")
 elif score < .6:
     print("F")
-
