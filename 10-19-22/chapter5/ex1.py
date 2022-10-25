@@ -20,4 +20,3 @@ while True:
     except:
         print("Invalid input")
         exit(0)
-        
